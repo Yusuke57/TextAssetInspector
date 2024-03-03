@@ -1,7 +1,7 @@
 ![TextAssetInspectorThumbnail](https://github.com/Yusuke57/TextAssetInspector/assets/27964732/f4ba3521-329c-44fd-bb4b-b19dc3393cca)
 
 ## Overview
-An editor extension that improves the behavior of TextAsset on Inspector.
+An Unity editor extension that improves the behavior of TextAsset on Inspector.
 
 https://github.com/Yusuke57/TextAssetInspector/assets/27964732/b1704b85-58de-4cf5-b3bf-655b4fe8b8cf
 
