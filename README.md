@@ -12,5 +12,10 @@ https://github.com/Yusuke57/TextAssetInspector/assets/27964732/b1704b85-58de-4cf
 ## Getting started
 Place the cloned or downloaded `TextAssetInspector` folder anywhere under `Assets` folder.
 
+## License
+- TextAssetInspector: MIT license
+- [DynamicJson](https://github.com/neuecc/DynamicJson): Ms-PL license
+  - created and maintained by neuecc <ils@neue.cc> 
+
 ## Author
 @yuji_ap: [https://twitter.com/yuji_ap](https://twitter.com/yuji_ap)
